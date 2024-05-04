@@ -1,2 +1,2 @@
 # Sports-Power-Apps-Store
-A collection of premium Power Apps Solutions built for the Sports &amp; Entertainment industry. All are free to download and use.
+A collection of premium Power Apps Solutions built for the Sports &amp; Entertainment industry. All are free to download and use. Each solution contains both a Model-Driven Power App to manage any related data and security roles in Dataverse. There are also  accompanying Canvas Power App(s) for mobile or desktop user experiences. Each solution was build using a Power Platform Developer Environment and can easily be imported into any other Dataverse environment.
